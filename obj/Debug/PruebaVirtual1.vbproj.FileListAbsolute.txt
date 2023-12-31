@@ -1,0 +1,26 @@
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.exe.config
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.exe
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.pdb
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.xml
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.vbprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.frmLogin.resources
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.frmPrestamos.resources
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.Resources.resources
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.vbproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.exe
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.xml
+C:\Users\Toshiba\Desktop\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.vbproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.frmLogin.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.frmPrestamos.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.vbproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.xml
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.Resources.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\obj\Debug\PruebaVirtual1.vbproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.exe.config
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 3\Prueba Virtual 1\PruebaVirtual1\PruebaVirtual1\bin\Debug\PruebaVirtual1.xml
